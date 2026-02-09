@@ -41,6 +41,7 @@ Content Management System
 
 ## Web Host Install
 - Need when you want to build a specific website
+- Always access with domain_website_name/wp-admin/
 
 
 ## Installing WordPress Locally
