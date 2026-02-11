@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "srishti",
+      "platforms": {
+        "leetcode": { "rating": 1820, "problems_solved": 340, "contest_participated": 20, "easy": 140, "medium": 150, "hard": 50 },
+        "codechef": { "rating": 1750, "stars": 4, "contest_participated": 28, "global_rank": 1900 },
+        "codeforces": { "rating": 1690, "max_rating": 1725, "contest_participated": 42, "global_rank": 3100 }
+      },
+      "last_updated": "2026-02-11"
+    },
+    {
+      "username": "rahul",
+      "platforms": {
+        "leetcode": { "rating": 1950, "problems_solved": 410, "contest_participated": 30, "easy": 150, "medium": 190, "hard": 70 },
+        "codechef": { "rating": 1880, "stars": 5, "contest_participated": 35, "global_rank": 1200 },
+        "codeforces": { "rating": 1800, "max_rating": 1850, "contest_participated": 50, "global_rank": 2000 }
+      },
+      "last_updated": "2026-02-11"
+    },
+    {
+      "username": "ananya",
+      "platforms": {
+        "leetcode": { "rating": 1600, "problems_solved": 250, "contest_participated": 15, "easy": 110, "medium": 110, "hard": 30 },
+        "codechef": { "rating": 1580, "stars": 3, "contest_participated": 18, "global_rank": 4200 },
+        "codeforces": { "rating": 1500, "max_rating": 1550, "contest_participated": 22, "global_rank": 5000 }
+      },
+      "last_updated": "2026-02-11"
+    },
+    {
+      "username": "vikas",
+      "platforms": {
+        "leetcode": { "rating": 2050, "problems_solved": 500, "contest_participated": 40, "easy": 170, "medium": 230, "hard": 100 },
+        "codechef": { "rating": 2005, "stars": 5, "contest_participated": 45, "global_rank": 800 },
+        "codeforces": { "rating": 1920, "max_rating": 1980, "contest_participated": 60, "global_rank": 1300 }
+      },
+      "last_updated": "2026-02-11"
+    },
+    {
+      "username": "neha",
+      "platforms": {
+        "leetcode": { "rating": 1700, "problems_solved": 300, "contest_participated": 22, "easy": 130, "medium": 130, "hard": 40 },
+        "codechef": { "rating": 1650, "stars": 4, "contest_participated": 26, "global_rank": 2500 },
+        "codeforces": { "rating": 1580, "max_rating": 1620, "contest_participated": 33, "global_rank": 3900 }
+      },
+      "last_updated": "2026-02-11"
+    }
+  ]
+}
