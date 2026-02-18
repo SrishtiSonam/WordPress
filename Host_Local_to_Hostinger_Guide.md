@@ -19,11 +19,13 @@ Now just have to move it online using Hostinger.
 2. Click **WP Admin**
 // A plugin is required 
 3. Go to → `Plugins → Add New`
-4. Install **All-in-One WP Migration**
+4. Install **All-in-One WP Migration and Backup**
 5. Activate the plugin
-6. Go to → `All-in-One WP Migration → Export`
+6. Go to → `All-in-One WP Migration and Backup → Export`
 7. Choose **Export to → File**
-8. Download the `.wpress` file to my computer
+8. Download the `.wpress` file
+
+![Website Hosted](images/Exporting_File.png)
 
 This file contains everything (website files + database).
 
@@ -42,7 +44,12 @@ This file contains everything (website files + database).
    - Username  
    - Password  
    - Website Title  
+   // I used temporary domain.
 7. Click **Install**
+
+![Website on Hostinger](images/Add_Website.png)
+![Website on Hostinger](images/Hostinger_Admin_Page.png)
+![Website on Hostinger](images/Hostinger_Website.png)
 
 // Now WordPress is installed on my domain.
 
@@ -53,11 +60,15 @@ This file contains everything (website files + database).
 1. Open → `mydomain.com/wp-admin`
 2. Login to the dashboard
 3. Go to → `Plugins → Add New`
-4. Install **All-in-One WP Migration**
+4. Install **All-in-One WP Migration and Backup**
 5. Activate it
-6. Go to → `All-in-One WP Migration → Import`
+6. Go to → `All-in-One WP Migration and Backup → Import`
 7. Upload the `.wpress` file.
 8. Click **Proceed**
+
+![Importing File](images/Importing_File.png)
+![Importing File](images/Importing_Proceed_File.png)
+![Importing File](images/Importing_Restoring_File.png)
 
 // Now LocalWP website is transferred to the live server.
 
@@ -113,6 +124,10 @@ If the `.wpress` file is too large:
 - Links are working  
 - HTTPS is enabled  
 - Admin panel accessible  
+
+![Website Hosted](images/Hosted_Page_1.png)
+![Website Hosted](images/Hosted_Page_2.png)
+![Website Hosted](images/Hosted_Page_3.png)
 
 
 If something doesn’t work, usually:
